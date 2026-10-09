@@ -39,7 +39,7 @@ O objetivo do projeto foi transformar mais de duas décadas de estatísticas esp
 
 1. Faça o download do arquivo `.pbix` localizado neste repositório.
 2. Abra o arquivo no **Power BI Desktop**.
-3. *(Opcional)* Se possuir o vídeo/GIF demonstrativo, insira o link aqui.
+
 
 ---
 
